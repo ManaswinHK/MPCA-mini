@@ -3,5 +3,4 @@ dist/
 __pycache__/
 *.pyc
 *.docx
-*.pdf
 ~$*
